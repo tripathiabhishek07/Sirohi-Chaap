@@ -79,12 +79,12 @@
   
   .title {
     
-    line-height: 2.2rem;
+    line-height: 1.8rem;
     /* border: 2px solid green; */
     margin-top: -2rem;
     font-size: 2rem; /* text-3xl */
-    margin-bottom: rem; /* mb-4 */
-    font-weight: 525; /* font-medium */
+    margin-bottom: 0rem; /* mb-4 */
+    font-weight: 800; /* font-medium */
      /* text-gray-900 */
   }
   

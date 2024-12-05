@@ -7,11 +7,11 @@ const FeatureSection = () => {
       <div className="container1">
         <div className="header1">
           <div className="text-container1">
-            <h1 className="title1">Get Started Now !</h1>
+            <h1 className="title1">Order Now !!!</h1>
             <div className="underline1"></div>
           </div>
           <p className="description1">
-          Quickly share or find food by listing your left out food, exploring available meals, and connecting with others. Join us to help reduce food waste and support your community!
+          From where you can get rid of your hunger and say <br></br>"We are Foodies".
           </p>
         </div>
         <div className="card-container1">
